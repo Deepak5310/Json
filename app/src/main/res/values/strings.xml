@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Json</string>
+    <string name="single_row_image">single_row_image</string>
+    <string name="splash_image">splash_image</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+</resources>
