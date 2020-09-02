@@ -61,6 +61,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.myViewHolder> {
         public myViewHolder(@NonNull View itemView) {
             super(itemView);
 
+
             imageView = itemView.findViewById(R.id.single_row_image);
             textView = itemView.findViewById(R.id.single_row_text);
         }
