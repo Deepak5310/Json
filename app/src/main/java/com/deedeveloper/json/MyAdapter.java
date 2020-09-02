@@ -28,7 +28,6 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.myViewHolder> {
         View view = inflater.inflate(R.layout.single_row, parent, false);
         return new myViewHolder(view);
     }
-
     @Override
     public void onBindViewHolder(@NonNull final myViewHolder holder, int position) {
 
